@@ -143,7 +143,7 @@ export default function ShopHero() {
               <br />
               Shop
             </h1>
-            <p className="text-gray-300 mt-2">Home &gt; Shop</p>
+            <p className="text-black-300 mt-2">Home &gt; Shop</p>
           </div>
         </div>
       </section>
