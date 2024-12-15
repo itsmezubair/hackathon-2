@@ -1,4 +1,6 @@
 import Image from "next/image";
+import React from 'react';
+
 import InnerPeace from "@/Pictures/inner.png" 
 import SideInner from "@/Pictures/Sideinner.png" 
 export default function () {
@@ -19,7 +21,7 @@ export default function () {
 
         </div>
         <div className="slideImages">
-        <Image src={SideInner} width={250} alt="Picture of the author" />
+        <Image src={SideInner} width={278} alt="Picture of the author" />
 
         </div>
       </div>

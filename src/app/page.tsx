@@ -5,6 +5,7 @@ import Products from "@/components/Products";
 import Slides from "@/components/Slides";
 import SubHero from "@/components/Subhero";
 
+
 export default function Home(){
   return (
     <>
@@ -13,6 +14,7 @@ export default function Home(){
     <SubHero/>
     <Products/>
     <Slides/>
+    
     {/* <Footer/> */}
     </>
   )

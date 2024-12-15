@@ -1,4 +1,6 @@
 import Image from "next/image"
+import React from 'react';
+
 import Dining from "@/Pictures/dining.png"
 import Living from "@/Pictures/living.png" 
 import Bedroom from "@/Pictures/bedroom.png" 
